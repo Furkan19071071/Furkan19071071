@@ -27,9 +27,10 @@
 
 ## 📊 GitHub Stats
 <div align="center">
+  
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furkan19071071&layout=compact&langs_count=10&theme=dark&hide=html,css,jupyter%20notebook" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furkan19071071&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
 ## 🔥 GitHub Streak
